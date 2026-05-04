@@ -110,9 +110,9 @@ All models were evaluated on the same time-based train/val/test split.
 
 | Model | Test Accuracy | F1 (podium) | Precision | Recall |
 |---|---|---|---|---|
-| **AdaBoost** | **0.9489** | **0.8253** | **0.8473** | 0.8043 |
+| **AdaBoost** | **0.9467** | **0.8165** | **0.8450** | 0.7899 |
 | Decision Tree (Tuned) | 0.9402 | 0.8014 | 0.7986 | 0.8043 |
-| XGBoost | 0.9314 | 0.7835 | 0.7451 | 0.8261 |
+| XGBoost | 0.9325 | 0.7905 | 0.7405 | 0.8478 |
 | Random Forest | 0.9184 | 0.6939 | 0.7944 | 0.6159 |
 | KNN | 0.8792 | 0.5779 | 0.6080 | 0.5507 |
 | Decision Tree | 0.8662 | 0.6168 | 0.5410 | 0.7174 |
